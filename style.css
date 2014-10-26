@@ -58,7 +58,7 @@ div img {
 	border-bottom: 1px solid #d3d3d3;
 	border-right: 1px solid #d3d3d3;
 	border-left: 1px solid #d3d3d3;
-	font: 17 px arial, sans-serif;
+	font: 16px arial, sans-serif;
 }
 
 .button {
@@ -78,6 +78,10 @@ div img {
 .button:hover {
 	color: #2a2a2a;
 	border: 1px solid #bdbdbd;
+}
+
+.search:hover {
+	border:1px solid #aaaaaa;
 }
 
 footer {
