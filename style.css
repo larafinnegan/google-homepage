@@ -42,25 +42,30 @@ div {
 	display:block;
 	margin: auto;
 	text-align:center;
-	padding-top: 13%;;
+	padding-top: 14%;;
 }
 
 div img {
 	width: 270px;
 	height: 95px;
-	margin:10px;
+	margin:5px;
 }
 
 .search {
-	width: 560px;
+	width: 570px;
 	height: 28px;
 	border-top: 1px solid #bdbdbd;
 	border-bottom: 1px solid #d3d3d3;
 	border-right: 1px solid #d3d3d3;
 	border-left: 1px solid #d3d3d3;
+	padding-right: 30px;
 	font: 16px arial, sans-serif;
 	text-indent:5px;
-}
+	background: url('data:image/gif;base64,R0lGODlhHAAmAKIHAKqqqsvLy0hISObm5vf394uLiwAAAP///yH5BAEAAAcALAAAAAAcACYAAAO9eLpMIMYIQJi9DcYtKv6KtnHgB4yoAZSXKAyDy1rjoAzjzOQLrx8+4OanCAZnxiExGSEKmz3lj2lwUq3SZ3WZPbKuXGgxu9t4tLYDTkpIRQILF0x2G4lWipM7gj/oJQUkcXsCDCIFATULBCIcZ2tvB3QLDxETFnR/BgU/gRt9jX0gnpYMkJZpFzEoqQqJKAIBaQOVKHAXr3t7txgBjboSvB8EpLoFZywOAo3LFE5lYs/QW9LT1TRk1V7S2xYJADs');
+	background-repeat:no-repeat;
+	background-position:548px 4px;
+	background-size:14px 19px;
+	}
 
 .button {
 	border: 1px solid #d3d3d3;
@@ -70,9 +75,9 @@ div img {
 	margin-right:4px;
 	margin-top: 15px;
 	font-family: arial, sans-serif;
-	font-size: 10px;
+	font-size: 11px;
 	font-weight: bold;
-	padding: 8px;
+	padding: 7px;
 	border-radius:2px;
 }
 
