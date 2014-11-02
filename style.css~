@@ -42,7 +42,7 @@ div {
 	display:block;
 	margin: auto;
 	text-align:center;
-	padding-top: 14%;
+	padding-top: 14%;;
 }
 
 div img {
